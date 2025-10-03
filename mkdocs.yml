@@ -115,6 +115,7 @@ nav:
             - Cost Analysis: howtos/applications/_cost.md
             - Evaluating Multi-turn Conversations: howtos/applications/evaluating_multi_turn_conversations.md
             - Evaluations with Vertex AI models: howtos/applications/vertexai_x_ragas.md
+            - Using Ragas Metrics with DSPy GEPA: howtos/applications/_dspy_gepa.md
           - Testset Generation:
             - Single-hop Query Testset: howtos/applications/singlehop_testset_gen.md
           - Benchmarking:

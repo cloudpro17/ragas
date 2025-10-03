@@ -11,6 +11,7 @@ usecases to solve problems you might encounter when you're building.
 - [Estimate cost of evaluation](_cost.md)
 - [Evaluations with Vertex AI models](vertexai_x_ragas.md)
 - [Systematic Approach for Prompt Optimization](prompt_optimization)
+- [Using Ragas Metrics with DSPy GEPA](_dspy_gepa.md)
 
 ## Testset Generation:
 
